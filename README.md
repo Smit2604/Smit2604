@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a5fe5347-6c95-4433-bdf3-f5841094d8fb" alt="Cybersecurity Header">
+  <img src="https://drive.google.com/uc?export=view&id=1ygkWyOJuFBK8vW9fRpU0kujaDZeYHxlC" alt="Cybersecurity Header">
 </p>
 
 <h1 align="center">Welcome to My Cybersecurity Hub! 🔐🛡️</h1>
@@ -72,14 +72,14 @@
 
 <p align="center">
   <!-- Top Languages Card -->
-  <a href="https://github.com/DDevil26?tab=languages">
+  <a href="https://github.com/Smit2604?tab=languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDevil26&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
   </a>
 </p>
 
 <p align="center">
   <!-- Contribution Activity Card -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=DDevil26&theme=radical&hide_border=true" alt="Contribution Activity" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); animation: fadeIn 2s ease-in;">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Smit2604&theme=radical&hide_border=true" alt="Contribution Activity" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); animation: fadeIn 2s ease-in;">
 </p>
 
 ---
